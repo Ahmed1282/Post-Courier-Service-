@@ -1,4 +1,20 @@
 # Post-Courier-Service-
 Developed a terminal level system for the day-to-day operations of the Post Courier Service in C++
 
-The Pakistan Post has several post offices and collection centers that process parcels and documents to deliver, including various mail services such as same day, one day, urgent and regular. The system will issue an invoice for every parcel with a unique order ID and all relevant information about the shipment. There are multiple sections of the post office, such as the shipment section, the parcel-deliver section, the not-shipped section, the sorting section, and the accounts section. The system will maintain a record of undelivered packages, sort the mails based on their postal addresses, and track the shipments' location. Customers can track their shipments, and senders and recipient addresses will store in the file system for future purposes. The system must maintain the record of each post office separately, store all information into the filing system, and create a complete menu for each operation that includes previous menu and multiple options on the console. The system will use file handling to store information of post offices, employees, customers, mails, and other entities. Finally, the system must load the data from file to arrays and object of arrays when required.
+-The Pakistan Post has multiple post offices and collection centers for processing parcels and documents.
+
+-Different mail services are provided, such as same day, one day, urgent, and regular, with each parcel having a unique order ID and relevant shipment information.
+
+-There are several sections in the post office, including the shipment, parcel-delivery, not-shipped, sorting, and accounts sections.
+
+-The system maintains records of undelivered packages, sort mails based on postal addresses, and track the shipment's location.
+
+-Customers can track their shipments, and the sender and recipient addresses will store in the file system for future reference.
+
+-The system maintain separate records for each post office, store all information in the file system, and provide a complete menu for each operation.
+
+-The menu include previous options and multiple options on the console.
+
+-The system uses file handling to store information about post offices, employees, customers, mails, and other entities.
+
+-The data is loaded from the file to arrays and object of arrays when required.
